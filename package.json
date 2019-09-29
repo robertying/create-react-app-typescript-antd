@@ -8,7 +8,7 @@
     "eject": "react-app-rewired eject"
   },
   "dependencies": {
-    "antd": "3.23.4",
+    "antd": "3.23.5",
     "react": "16.10.1",
     "react-dom": "16.10.1",
     "react-router-dom": "5.1.1"

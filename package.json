@@ -23,7 +23,7 @@
     "customize-cra": "0.9.1",
     "eslint": "5.16.0",
     "husky": "4.2.3",
-    "less": "3.10.3",
+    "less": "3.11.1",
     "less-loader": "5.0.0",
     "lint-staged": "10.0.7",
     "prettier": "1.19.1",
